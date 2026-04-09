@@ -45,9 +45,13 @@ Ekip
 Ulunaz Takımı - UYBİST AR-GE Komitesi Hackathon Projesi
 
 İsim	Rol
-Fatmanur Sena Bülbül	Kaptan
-Salih Buğra Bülbül	Geliştirici
-Süleyman Efe Kaya	Geliştirici
+
+Fatmanur Sena Bülbül | Kaptan
+
+Salih Buğra Bülbül | Geliştirici
+
+Süleyman Efe Kaya | Geliştirici
+
 Lisans
 
 Bu proje UYBİST AR-GE Komitesi hackathon yarışması için geliştirilmiştir.
